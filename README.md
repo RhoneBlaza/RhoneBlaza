@@ -104,7 +104,7 @@ My goal is to eventually develop an app that can genuinely help people in my com
   <tr>
     <td align="center">
       <a href="https://github.com/ForrestKnight">
-        <img src="https://github.com/user-attachments/assets/14b9e7ce-528c-4dcb-b432-b3418e55bd91" width="80"><br>
+        <img src="https://github.com/user-attachments/assets/d74a62b6-2e1d-41c5-849a-16eee32e3137" width="80" /> <br>
         <strong>ForrestKnight</strong>
       </a>
     </td>
@@ -115,12 +115,13 @@ My goal is to eventually develop an app that can genuinely help people in my com
   <b>For the Designs</b>
 </p>
 
+---
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/noobgamingph">
-        <img src="https://github.com/user-attachments/assets/0c05aea4-e9e9-4450-8f1f-2c00f3ca9419" width="80"><br>
+        <img src="https://github.com/user-attachments/assets/cee17e62-344d-4edb-b9d6-25ef1b89b67e" width="80" /> <br>
         <strong>NoobGamingPH</strong>
       </a>
     </td>
