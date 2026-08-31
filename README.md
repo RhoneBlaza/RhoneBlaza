@@ -15,7 +15,7 @@
     <td width="800">
 
 <p align="center">
-Hi there! I'm a 3rd-Year Information Technology Filipino student and freelance graphic designer, slowly building my own version of the digital world one step at a time. I create private freelance designs for clients and work on coding projects whenever I can, starting from simple planning and concepts all the way to creating solutions that can help in real-life situations.
+Hi there! I'm a 4th-Year Information Technology Filipino student and freelance graphic designer, slowly building my own version of the digital world one step at a time. I create private freelance designs for clients and work on coding projects whenever I can, starting from simple planning and concepts all the way to creating solutions that can help in real-life situations.
 </p>
 
 <p align="center">
